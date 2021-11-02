@@ -257,7 +257,7 @@
 .card .info {
   position: relative;
   z-index: 3;
-  color: #fff;
+  color: black;
   opacity: 0;
   transform: translateY(30px);
   transition: 0.5 all;
@@ -271,4 +271,5 @@
   font-size: medium;
   background-color: #ffc107;
   padding: 5px 10px;
+  color: black;
 }
